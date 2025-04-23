@@ -1,9 +1,9 @@
 <h1 align="center">Oi👋, Eu sou Talles Fraga</h1>
 <h3 align="center">Aprendendo e desenvolvendo meu conhecimento em Analise de Dados</h3>
 
-- 🌱 Atualmente estou apredendo **Python, Machine Learning e Power BI**
+- 🌱 Atualmente estou apredendo **Python, Power BI, SQL**
 
-- 💬 Me pergunte sobre **SQL, Power Bi, Python**
+- 💬 Me pergunte sobre **Python, demais em desenvolvimento**
 
 - 📫 Você me acha através do e-mail **talles.fraga07@gmail.com**
 
