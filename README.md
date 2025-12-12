@@ -1,7 +1,7 @@
 <h1 align="center">Oi👋, Eu sou Talles Fraga</h1>
-<h3 align="center">Aprendendo e desenvolvendo meu conhecimento em Analise de Dados</h3>
+<h3 align="center">Aprendendo e desenvolvendo meu conhecimento em programação</h3>
 
-- 🌱 Atualmente estou apredendo **Python, Power BI, SQL**
+- 🌱 Atualmente estou aprimorando **Python**
 
 - 💬 Me pergunte sobre **Python, demais em desenvolvimento**
 
