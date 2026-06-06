@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprimorando **SLQ, Power BI, Python**
 
-- 💬 Me pergunte sobre ***SLQ e Power BI, demais em desenvolvimento**
+- 💬 Me pergunte sobre **SLQ e Power BI, demais em desenvolvimento**
 
 - 📫 Você me acha através do e-mail **talles.fraga07@gmail.com**
 
