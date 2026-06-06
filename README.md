@@ -1,5 +1,5 @@
 <h1 align="center">Oi👋, Eu sou Talles Fraga</h1>
-<h3 align="center">Aprendendo e desenvolvendo meu conhecimento em programação</h3>
+<h3 align="center">Construindo projetos práticos de análise de dados, automação de processos e visualização de indicadores para apoiar a tomada de decisão.</h3>
 
 - 🌱 Atualmente estou aprimorando **SLQ, Power BI, Python**
 
