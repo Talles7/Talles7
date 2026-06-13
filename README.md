@@ -7,7 +7,7 @@
 
 - 📫 Você me acha através do e-mail **talles.fraga07@gmail.com**
 
-- 📄 Minhas o experiências [linkedin.com/in/talles-santana-fraga-615459181](linkedin.com/in/talles-santana-fraga-615459181)
+- 📄 Minhas o experiências www.linkedin.com/in/tallessantanafraga
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
