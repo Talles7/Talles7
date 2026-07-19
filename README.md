@@ -23,13 +23,8 @@ Construindo projetos práticos de análise de dados, automação de processos e 
 </a>
 
 <a href="mailto:talles.fraga07@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45"/>
 </a>
-
-<a href="https://wa.me/11957958163" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
 </p>
 
 ---
@@ -51,7 +46,7 @@ Construindo projetos práticos de análise de dados, automação de processos e 
 </a>
 
 <a href="https://powerbi.microsoft.com/" target="_blank">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="45" height="45"/>
 </a>
 
 <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
@@ -65,5 +60,6 @@ Construindo projetos práticos de análise de dados, automação de processos e 
 <a href="https://github.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
 </a>
-
 </p>
+
+
