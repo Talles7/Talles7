@@ -4,7 +4,7 @@
 Construindo projetos práticos de análise de dados, automação de processos e visualização de indicadores para apoiar a tomada de decisão.
 </h3>
 
-- 🌱 Atualmente estou aprimorando **SQL, Power BI e Python**
+- 🌱 Atualmente estou aprimorando **Power BI e Python**
 
 - 💬 Me pergunte sobre **SQL, Power BI e Análise de Dados**
 
@@ -22,8 +22,8 @@ Construindo projetos práticos de análise de dados, automação de processos e 
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/talles-santana-fraga-615459181" height="30" width="40" /> 
 </a>
 
-<a href="mailto:talles.fraga07@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45" height="45"/>
+<a href="mailto:talles.fraga07@gmail.com" >
+  <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="talles.fraga07@gmail.com" width="45" height="45"/>
 </a>
 </p>
 
